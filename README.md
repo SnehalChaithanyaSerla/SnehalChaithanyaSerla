@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serla.Snehal Chaithanya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **Backend developer**
+- 🌱 I’m currently sai  learning **Backend developer**
 
 - 📫 How to reach me **serlachaithanya2006@gmail.com**
 
